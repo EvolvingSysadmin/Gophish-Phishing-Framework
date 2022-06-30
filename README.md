@@ -2,7 +2,7 @@
 
 ![Let's Phish Bruh](/img/logo.png)
 
-This repository contains instruction on the use of the Gophish phishing frameworks to evaluate information security.
+This repository contains instruction on the use of the Gophish phishing framework to evaluate information security.
 
 
 ## Topics
@@ -124,5 +124,5 @@ To configure and launch a campaign, click the "Campaigns" entry in the navigatio
 Users are redirected to the campaign results screen when a campaign is launched. Expand the row with the recipient's name to view engagement information for that recipient. This results view will show engagement information, such as whether the recipient opened the email, clicked the link, or submitted data such as credentials to the landing page.
 
 ## Resources
-- https://github.com/gophish/gophish 
+- [Gophish Github Repository](https://github.com/gophish/gophish )
 - [Gophish Documentation](https://getgophish.com/documentation/)
